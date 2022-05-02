@@ -1,0 +1,23 @@
+label{
+    font-size: 150%;
+    color: white;
+}
+
+.badge{
+    margin: 2px;
+    font-size: 150%;
+}
+
+@media (max-width: 414px) {
+    span{
+        display: block;
+    }
+}
+
+
+
+/* @media (min-width: 414px) {
+    br{
+        display: none;
+    }
+} */
